@@ -1,4 +1,4 @@
-﻿using CompanyEmployees.Application.Services;
+﻿using CompanyEmployees.Application.Services.Common;
 
 using NLog;
 
